@@ -1,7 +1,7 @@
 const CACHE_NAME="v1_cache_panel_adm",
  urlsToCache = [
 
-    "https://script.google.com/macros/s/AKfycbw8SW04M5PKqxrMc5kCmN6RFSg7eQ0cCjuwFGdouIOgOydCesR7sXN0nObYhEP_lr6SSA/exec","./manifest.json"
+    "https://script.google.com/macros/s/AKfycbyLqCinCAfiVuepwichXGwgyyQqnT7BBqwoauIYlZf9vj2fczNStwULBBw_WtfmMwexXw/exec","./manifest.json"
 
  ];
 
