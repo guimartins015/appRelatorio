@@ -1,7 +1,7 @@
 const CACHE_NAME="v1_cache_panel_adm",
  urlsToCache = [
 
-    "https://script.google.com/macros/s/AKfycbyLqCinCAfiVuepwichXGwgyyQqnT7BBqwoauIYlZf9vj2fczNStwULBBw_WtfmMwexXw/exec","./manifest.json"
+    "https://guimartins015.github.io/appRelatorio/","./manifest.json"
 
  ];
 
