@@ -10,7 +10,7 @@ const CACHE_NAME="v1_cache_panel_adm",
    caches
      .open(CACHE_NAME)
      .then((cache) => {
-      return cache.addAll(urlsToCache).then(() => self.skipeWaiting());
+      return cache.addAll(urlsToCache).then(() => self.skipWaiting());
      })
      .catch((err) => "Falha ao registrar cache",err)
    );
