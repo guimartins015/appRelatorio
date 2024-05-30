@@ -1,7 +1,8 @@
 {
     "name": "Relatório WEB",
     "short_name": "RW",
-    "start_url": "/?utm_source=web_app_manifest",
+    /*"start_url": "/?utm_source=web_app_manifest",*/
+    "start_url" : "/appRelatorio/",
     "display": "standalone",
     "background_color": "#fff",
     "description": "Teste de pwa",
