@@ -1,6 +1,6 @@
 {
     "name": "Relatório WEB",
-    "short_name": "RW",
+    "short_name": "Relatório Web",
     /*"start_url": "/?utm_source=web_app_manifest",*/
     "start_url" : "/appRelatorio/",
     "display": "standalone",
