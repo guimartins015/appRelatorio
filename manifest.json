@@ -1,5 +1,5 @@
 {
-    "name": "Relatório WEB",
+    "name": "Relatório",
     "short_name": "RelatWeb",
     /*"start_url": "/?utm_source=web_app_manifest",*/
     "start_url" : "/appRelatorio/",
