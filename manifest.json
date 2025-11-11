@@ -1,6 +1,6 @@
 {
-    "name": "App",
-    "short_name": "App",
+    "name": "Relatório",
+    "short_name": "Relatório",
     "start_url" : "/appRelatorio/",
     "display": "standalone",
     "background_color": "#fff",
