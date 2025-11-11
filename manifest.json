@@ -1,11 +1,11 @@
 {
     "name": "Relatório WEB",
-    "short_name": "Relatório Web",
+    "short_name": "RelatWeb",
     /*"start_url": "/?utm_source=web_app_manifest",*/
     "start_url" : "/appRelatorio/",
     "display": "standalone",
     "background_color": "#fff",
-    "description": "Aplicativo para envio de relatório.n\\Desv:Guilherme",
+    "description": "Aplicativo para envio de relatório,Desv:Guilherme",
     "icons": [
       
       {
