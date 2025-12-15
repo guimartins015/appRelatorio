@@ -80,6 +80,7 @@ async function checarMsgAgendada() {
         mesVin = (dateVin.getMonth()+1)+1; //PROXIMO MÊS
         //SE DEZEMBRO VAI PARA JANEIRO
         if(mesVin==13){
+          anoVin=anoVin+1
           mesVin=1;
         }   
         diaVin = 15;
