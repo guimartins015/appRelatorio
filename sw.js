@@ -121,6 +121,7 @@ async function checarMsgAgendada() {
         //SE DEZEMBRO VAI PARA JANEIRO
         if(mesVin==13){
           mesVin=1;
+          anoVin=anoVin+1
         }   
         diaVin = 15;
         //diaVin = dateVin.getDate()+1; 
